@@ -62,6 +62,10 @@
     border-bottom: 1px solid #ffffff;
 }
 
+.popover {
+    max-width: 66%;
+}
+
 .fadein {
     transition: opacity 0.2s;
     opacity: 1.0 !important;
@@ -71,4 +75,3 @@
     transition: opacity 0.2s;
     opacity: 0.0 !important;
 }
-
